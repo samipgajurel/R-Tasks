@@ -105,4 +105,3 @@ cat("1. The rejection ABC method uses a Uniform prior centered around the estima
 cat("2. The discrepancy metric is the mean squared error (MSE) between the observed y values and simulated y values.\n")
 cat("3. Samples with discrepancies less than the tolerance (epsilon) are accepted, forming the posterior distribution.\n")
 cat("4. The joint and marginal distributions show the range of plausible values for the two parameters.\n")
-
